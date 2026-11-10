@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Downloaded/cached data (recreated by scripts/reproduce.py)
+data/raw/
+data/processed/*.nc
+
+# Local logs and OS files
+*.log
+.DS_Store
