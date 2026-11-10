@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Congo Forest xarray"
+message: "If you use this software, please cite it and the underlying datasets."
+type: software
+authors:
+  - given-names: "Kisife F"
+    family-names: "Jude"
+version: 1.0.0
+date-released: 2026-11-10
+repository-code: "https://github.com/kisife/congo-forest-xarray"
+license: MIT
+keywords:
+  - Congo Basin
+  - forest biomass
+  - forest disturbance
+  - xarray
+  - remote sensing

@@ -1,0 +1,35 @@
+{
+  "biomass": [
+    {
+      "year": 2010,
+      "area_weighted_mean_agb_mg_ha": 148.39305019292834,
+      "regional_agb_stock_pg": 61.486093017223,
+      "high_biomass_area_percent_agb_ge_200": 40.10426164949473,
+      "median_relative_uncertainty_percent": 18.80341911315918
+    },
+    {
+      "year": 2020,
+      "area_weighted_mean_agb_mg_ha": 146.54987356731763,
+      "regional_agb_stock_pg": 60.72237982915839,
+      "high_biomass_area_percent_agb_ge_200": 39.245529914206436,
+      "median_relative_uncertainty_percent": 18.18181800842285
+    },
+    {
+      "year": 2024,
+      "area_weighted_mean_agb_mg_ha": 146.14099462758682,
+      "regional_agb_stock_pg": 60.55296240369012,
+      "high_biomass_area_percent_agb_ge_200": 38.9982445886782,
+      "median_relative_uncertainty_percent": 18.18181800842285
+    }
+  ],
+  "disturbance": {
+    "cumulative_mapped_disturbance_km2_2001_2024": 146.55906318933737,
+    "peak_year": 2024,
+    "peak_year_mapped_disturbance_km2": 26.83973938616808,
+    "note": "Pixel-based descriptive estimates, not design-based area estimates with confidence intervals."
+  },
+  "sources": {
+    "esa_cci_biomass_doi": "https://doi.org/10.5285/6429d1aafe1e43b9b414e4a5a7f8b903",
+    "hansen_gfc_version": "GFC-2024-v1.12"
+  }
+}
